@@ -41,6 +41,8 @@ twitter_username: MLResearchPress
 github_username: mlresearch
 markdown: kramdown
 plugins:
+- jekyll-feed
+- jekyll-seo-tag
 - jekyll-remote-theme
 remote_theme: lawrennd/proceedings
 style: pmlr
