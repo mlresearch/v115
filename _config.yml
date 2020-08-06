@@ -1,0 +1,72 @@
+---
+booktitle: Proceedings of The 35th Uncertainty in Artificial Intelligence Conference
+shortname: UAI
+volume: 115
+year: '2019'
+start: 2019-07-22
+end: 2019-07-25
+published: 2020-08-06
+url: http://proceedings.mlr.press
+layout: proceedings
+series: Proceedings of Machine Learning Research
+issn: 2640-3498
+id: UAI2019
+month: 0
+cycles: false
+bibtex_editor: Adams, Ryan P. and Gogate, Vibhav
+editor:
+- given: Ryan P.
+  family: Adams
+- given: Vibhav
+  family: Gogate
+title: Proceedings of Machine Learning Research
+description: |
+  Proceedings of The 35th Uncertainty in Artificial Intelligence Conference
+    Held in Tel Aviv, Israel on 22-25 July 2019
+
+  Published as Volume 115 by the Proceedings of Machine Learning Research on 06 August 2020.
+
+  Volume Edited by:
+    Ryan P. Adams
+    Vibhav Gogate
+
+  Series Editors:
+    Neil D. Lawrence
+    Mark Reid
+date_str: 22--25 Jul
+author:
+  name: PMLR
+baseurl: "/v115"
+twitter_username: MLResearchPress
+github_username: mlresearch
+markdown: kramdown
+plugins:
+- jekyll-remote-theme
+remote_theme: lawrennd/proceedings
+style: pmlr
+permalink: "/:title.html"
+ghub:
+  edit: true
+  repository: v115
+display:
+  copy_button:
+    bibtex: true
+    endnote: true
+    apa: true
+  comments: false
+email: ''
+conference:
+  name: Uncertainty in Artificial Intelligence
+  url: 
+  location: Tel Aviv, Israel
+  dates:
+  - 2019-07-22
+  - 2019-07-23
+  - 2019-07-24
+  - 2019-07-25
+analytics:
+  google:
+    tracking_id: UA-92432422-1
+orig_bibfile: "/Users/neil/mlresearch/v115/uai19.bib"
+# Site settings
+# Original source:  /Users/neil/mlresearch/v115/uai19.bib
