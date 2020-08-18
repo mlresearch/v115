@@ -1,5 +1,6 @@
 ---
 booktitle: Proceedings of The 35th Uncertainty in Artificial Intelligence Conference
+orig_bibfile: "/Users/neil/mlresearch/v115/uai19.bib"
 shortname: UAI
 volume: 115
 year: '2019'
@@ -41,6 +42,10 @@ baseurl: "/v115"
 twitter_username: MLResearchPress
 github_username: mlresearch
 markdown: kramdown
+exclude:
+- README.md
+- Gemfile
+- ".gitignore"
 plugins:
 - jekyll-feed
 - jekyll-seo-tag
@@ -70,6 +75,5 @@ conference:
 analytics:
   google:
     tracking_id: UA-92432422-1
-orig_bibfile: "/Users/neil/mlresearch/v115/uai19.bib"
 # Site settings
 # Original source:  /Users/neil/mlresearch/v115/uai19.bib
