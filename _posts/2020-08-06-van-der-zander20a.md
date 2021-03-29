@@ -21,10 +21,11 @@ lastpage: 647
 page: 637-647
 order: 637
 cycles: false
-bibtex_author: "{van der Zander}, Benito and Li{\\'{s}}kiewicz, Maciej"
+bibtex_author: "van der Zander, Benito and Li\'{s}kiewicz, Maciej"
 author:
 - given: Benito
-  family: van der Zander
+  prefix: van der
+  family: Zander
 - given: Maciej
   family: Liśkiewicz
 date: 2020-08-06
